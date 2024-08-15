@@ -1,6 +1,4 @@
-
-
-```markdown
+---
 # Log Parsing
 
 This project involves parsing log files to extract, process, and compute metrics from log data streams. It covers several fundamental concepts in Python, including file I/O, signal handling, data processing, regular expressions, dictionaries, and exception handling.
