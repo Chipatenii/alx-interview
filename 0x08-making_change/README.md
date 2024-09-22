@@ -1,5 +1,3 @@
-Here's a sample `README.md` file for your project, based on the information you provided:
-
 ```markdown
 # 0x08. Making Change
 
